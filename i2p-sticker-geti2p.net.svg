@@ -830,15 +830,15 @@
   <text
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Mukti Narrow;-inkscape-font-specification:Mukti Narrow"
-     x="10.349688"
+     x="11.349688"
      y="69.941612"
      id="text3732"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan3734"
-       x="10.349688"
+       x="11.349688"
        y="69.941612"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Mukti Narrow;-inkscape-font-specification:Mukti Narrow">INVISIBLE INTERNET PROJECT       GETI2P2.NET</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Mukti Narrow;-inkscape-font-specification:Mukti Narrow">INVISIBLE INTERNET PROJECT        GETI2P.NET</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -850,4 +850,26 @@
        id="tspan4525"
        x="205.5"
        y="67.5"> </tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="211.77847"
+     y="64.979187"
+     id="text4527"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4529"
+       x="211.77847"
+       y="64.979187"> </tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="210.71782"
+     y="68.691498"
+     id="text4531"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4533"
+       x="210.71782"
+       y="68.691498"> </tspan></text>
 </svg>
